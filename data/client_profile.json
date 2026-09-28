@@ -1,0 +1,15 @@
+{
+  "client_name": "Solstice Robotics",
+  "ticker": "SLRB",
+  "sector": "Industrial Automation & Robotics",
+  "focal_companies": ["Solstice Robotics", "Solstice"],
+  "competitors": ["Kestrel Automation", "ArcWorks Robotics", "Vantage Motion Systems"],
+  "suppliers": ["Ferrotech Alloys", "Quanta Sensing", "Delta Servo Corp"],
+  "customers": ["Meridian Auto Group", "Northline Logistics", "Bayview Fulfillment"],
+  "geo_markets": ["Germany", "South Korea", "Mexico", "United States"],
+  "key_markets": ["industrial automation", "warehouse automation", "automotive manufacturing"],
+  "commodities": ["rare earth magnets", "semiconductor chips", "precision bearings"],
+  "regulators": ["US Department of Commerce", "EU AI Act", "CFIUS"],
+  "macro_sensitivities": ["interest rates", "reshoring", "tariffs"],
+  "themes": ["AI-driven automation", "labor shortage", "supply chain resilience"]
+}

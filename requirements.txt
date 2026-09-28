@@ -1,0 +1,7 @@
+networkx==3.6.1
+rapidfuzz==3.14.6
+bm25s==0.3.11
+numpy==2.4.6
+pydantic==2.13.5
+anthropic==1.8.0
+pytest==9.1.1

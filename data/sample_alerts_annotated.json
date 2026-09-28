@@ -1,0 +1,467 @@
+[
+  {
+    "id": "a01",
+    "received_at": "2026-08-11T09:00:00+00:00",
+    "subject": "Solstice Robotics Beats Q2 Estimates, Raises Full-Year Guidance",
+    "body": "Solstice Robotics (SLRB) reported Q2 revenue of $412M, above the $389M consensus, driven by strong bookings in warehouse automation. Management raised full-year revenue guidance to $1.68-1.72B and cited accelerating demand from e-commerce fulfillment customers. Shares rose 6% in after-hours trading.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      },
+      {
+        "entity_type": "COMPANY_CUSTOMER",
+        "name": "e-commerce fulfillment customers"
+      }
+    ]
+  },
+  {
+    "id": "a02",
+    "received_at": "2026-08-10T09:00:00+00:00",
+    "subject": "Solstice Robotics Announces New CFO",
+    "body": "Solstice Robotics named Elena Marsh as Chief Financial Officer, effective September 1. Marsh joins from a mid-cap industrial supplier and will succeed the outgoing CFO who is retiring after eight years with the company.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "PERSON_EXECUTIVE",
+        "name": "Elena Marsh",
+        "role": "CFO"
+      }
+    ]
+  },
+  {
+    "id": "a03",
+    "received_at": "2026-08-08T09:00:00+00:00",
+    "subject": "Solstice Robotics to Open Second Manufacturing Plant in Monterrey, Mexico",
+    "body": "Solstice Robotics confirmed plans to open a second manufacturing facility in Monterrey, Mexico, expanding nearshoring capacity for its North American customer base. The plant is expected to be operational by Q3 2027 and will focus on servo-driven arm assembly.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "Mexico"
+      },
+      {
+        "entity_type": "GEO_MANUFACTURING",
+        "name": "Monterrey, Mexico"
+      }
+    ]
+  },
+  {
+    "id": "a04",
+    "received_at": "2026-08-02T09:00:00+00:00",
+    "subject": "Solstice Robotics Wins Multi-Year Deal with Northline Logistics",
+    "body": "Solstice Robotics signed a multi-year agreement to deploy its autonomous picking arms across 14 Northline Logistics distribution centers. The deal is expected to contribute meaningfully to warehouse automation segment revenue starting next fiscal year.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "COMPANY_CUSTOMER",
+        "name": "Northline Logistics",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a05",
+    "received_at": "2026-08-09T09:00:00+00:00",
+    "subject": "Kestrel Automation Unveils Next-Gen AI Vision System for Warehouse Robots",
+    "body": "Kestrel Automation launched a new AI-powered vision system aimed at competing directly with warehouse automation incumbents. The company claims 30% faster pick rates and plans a broad rollout to logistics customers in early 2027.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_COMPETITOR",
+        "name": "Kestrel Automation",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      },
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "AI-driven automation"
+      }
+    ]
+  },
+  {
+    "id": "a06",
+    "received_at": "2026-08-05T09:00:00+00:00",
+    "subject": "ArcWorks Robotics Reports Wider-Than-Expected Losses, Cuts Workforce 8%",
+    "body": "ArcWorks Robotics posted a wider quarterly loss than analysts expected and announced an 8% reduction in headcount, citing softer order volumes in industrial automation. The company said it would refocus resources on its automotive manufacturing vertical.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_COMPETITOR",
+        "name": "ArcWorks Robotics",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "automotive manufacturing"
+      }
+    ]
+  },
+  {
+    "id": "a07",
+    "received_at": "2026-07-29T09:00:00+00:00",
+    "subject": "Vantage Motion Systems Acquires Small Sensor Startup",
+    "body": "Vantage Motion Systems announced the acquisition of a privately held motion-sensing startup for an undisclosed sum, aiming to bring perception technology in-house rather than relying on third-party sensor suppliers.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_COMPETITOR",
+        "name": "Vantage Motion Systems",
+        "related_to_focal": "solstice robotics"
+      }
+    ]
+  },
+  {
+    "id": "a08",
+    "received_at": "2026-08-07T09:00:00+00:00",
+    "subject": "Quanta Sensing Flags Capacity Constraints Amid Surging Robotics Demand",
+    "body": "Quanta Sensing, a key sensor supplier to the industrial automation sector, told investors it is running near full capacity and may extend lead times into 2027. The company did not name specific customers but said 'multiple robotics OEMs' have placed larger-than-normal orders.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_SUPPLIER",
+        "name": "Quanta Sensing",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a09",
+    "received_at": "2026-07-31T09:00:00+00:00",
+    "subject": "Ferrotech Alloys Warns of Rare Earth Magnet Price Spike",
+    "body": "Ferrotech Alloys, a specialty metals supplier, warned that rare earth magnet prices have risen nearly 40% year-over-year due to export restrictions, adding cost pressure for robotics and EV motor manufacturers that rely on its precision components.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_SUPPLIER",
+        "name": "Ferrotech Alloys",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "COMMODITY",
+        "commodity_name": "rare earth magnets"
+      }
+    ]
+  },
+  {
+    "id": "a10",
+    "received_at": "2026-07-24T09:00:00+00:00",
+    "subject": "Delta Servo Corp Opens New Servo Motor Plant in South Korea",
+    "body": "Delta Servo Corp, a servo motor supplier to industrial automation OEMs, opened a new manufacturing plant in South Korea to meet growing demand. The company said the facility would help diversify production away from existing sites.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_SUPPLIER",
+        "name": "Delta Servo Corp",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "South Korea"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a11",
+    "received_at": "2026-08-06T09:00:00+00:00",
+    "subject": "Meridian Auto Group Announces $2B Plant Automation Investment",
+    "body": "Meridian Auto Group said it will invest $2 billion over three years to automate assembly lines across its North American plants, part of a broader push to offset rising labor costs in automotive manufacturing.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_CUSTOMER",
+        "name": "Meridian Auto Group",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "automotive manufacturing"
+      }
+    ]
+  },
+  {
+    "id": "a12",
+    "received_at": "2026-07-27T09:00:00+00:00",
+    "subject": "Bayview Fulfillment Expands Same-Day Delivery Footprint",
+    "body": "Bayview Fulfillment, a logistics and e-commerce fulfillment operator, announced plans to expand same-day delivery coverage to 40 new metro areas, adding several new automated distribution centers along the way.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_CUSTOMER",
+        "name": "Bayview Fulfillment",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a13",
+    "received_at": "2026-08-04T09:00:00+00:00",
+    "subject": "US Department of Commerce Proposes New Export Controls on Advanced Robotics Components",
+    "body": "The US Department of Commerce proposed new export control rules targeting advanced robotics and AI-enabled components, citing national security concerns. Industry groups warned the rules could disrupt supply chains for domestic manufacturers relying on components sourced from Germany and South Korea.",
+    "entities": [
+      {
+        "entity_type": "REGULATOR",
+        "name": "US Department of Commerce"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "Germany"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "South Korea"
+      },
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "reshoring"
+      }
+    ]
+  },
+  {
+    "id": "a14",
+    "received_at": "2026-08-01T09:00:00+00:00",
+    "subject": "EU AI Act Enforcement Guidance Targets Industrial Robotics Systems",
+    "body": "European regulators released new enforcement guidance under the EU AI Act, clarifying compliance obligations for industrial robotics systems classified as 'high-risk.' Manufacturers selling into the EU will need to complete conformity assessments by mid-2027.",
+    "entities": [
+      {
+        "entity_type": "REGULATOR",
+        "name": "EU AI Act"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a15",
+    "received_at": "2026-08-03T09:00:00+00:00",
+    "subject": "Fed Signals Possible Rate Cuts as Manufacturing Data Softens",
+    "body": "The Federal Reserve signaled openness to rate cuts later this year after new data showed manufacturing activity softening for a third straight month. Capital-intensive sectors including industrial automation could see improved financing conditions if rates fall.",
+    "entities": [
+      {
+        "entity_type": "REGULATOR",
+        "name": "Federal Reserve"
+      },
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "interest rates"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a16",
+    "received_at": "2026-07-22T09:00:00+00:00",
+    "subject": "Reshoring Momentum Continues as Manufacturers Cite Tariff Uncertainty",
+    "body": "A new industry survey found that 62% of US manufacturers are accelerating reshoring plans, citing tariff uncertainty and geopolitical risk. Automation vendors are seen as key beneficiaries as reshored plants seek to offset higher US labor costs.",
+    "entities": [
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "reshoring"
+      },
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "tariffs"
+      }
+    ]
+  },
+  {
+    "id": "a17",
+    "received_at": "2026-07-30T09:00:00+00:00",
+    "subject": "Semiconductor Chip Shortage Fears Resurface After Fab Outage",
+    "body": "A power outage at a major semiconductor fab in Asia has reignited fears of a renewed chip shortage, with analysts warning that automation and robotics OEMs dependent on control chips could face delivery delays into next year.",
+    "entities": [
+      {
+        "entity_type": "COMMODITY",
+        "commodity_name": "semiconductor chips"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a18",
+    "received_at": "2026-07-20T09:00:00+00:00",
+    "subject": "CFIUS Review Launched Into Foreign Investment in US Robotics Firm",
+    "body": "The Committee on Foreign Investment in the United States (CFIUS) has opened a review into a proposed foreign investment in a US-based robotics components manufacturer, the latest sign of heightened scrutiny of the sector.",
+    "entities": [
+      {
+        "entity_type": "REGULATOR",
+        "name": "CFIUS"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "industrial automation"
+      }
+    ]
+  },
+  {
+    "id": "a19",
+    "received_at": "2026-07-28T09:00:00+00:00",
+    "subject": "Warehouse Labor Shortage Deepens, Survey Finds",
+    "body": "A new logistics industry survey found that 71% of warehouse operators report difficulty filling entry-level roles, intensifying interest in automation as a structural labor-cost solution across the fulfillment sector.",
+    "entities": [
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "labor shortage"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a20",
+    "received_at": "2026-07-26T09:00:00+00:00",
+    "subject": "AI-Driven Automation Adoption Accelerates Across Manufacturing",
+    "body": "A cross-industry report found that AI-driven automation adoption in manufacturing grew 45% year-over-year, with warehouse and automotive applications leading the way as companies seek productivity gains amid tight labor markets.",
+    "entities": [
+      {
+        "entity_type": "MACRO_SENSITIVITY",
+        "theme": "AI-driven automation"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "automotive manufacturing"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a21",
+    "received_at": "2026-08-05T09:00:00+00:00",
+    "subject": "Solstice Robotics Signs New Precision Casting Partner in Vietnam",
+    "body": "Solstice Robotics disclosed a new manufacturing partnership with Hanley Precision Casting, a Vietnam-based components maker, to diversify its supplier base for structural robot housings amid ongoing trade tensions.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "COMPANY_SUPPLIER",
+        "name": "Hanley Precision Casting",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "Vietnam"
+      }
+    ]
+  },
+  {
+    "id": "a22",
+    "received_at": "2026-07-25T09:00:00+00:00",
+    "subject": "Orion Freight Systems Adds Solstice Robotics Picking Arms to Three New Hubs",
+    "body": "Orion Freight Systems, a mid-size logistics operator not previously disclosed as a Solstice customer, confirmed it has deployed Solstice Robotics picking arms across three regional distribution hubs as part of a pilot expansion.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "COMPANY_CUSTOMER",
+        "name": "Orion Freight Systems",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a23",
+    "received_at": "2026-08-09T09:00:00+00:00",
+    "subject": "Regional Coffee Chain Expands to 200 New Locations",
+    "body": "A regional coffee chain announced plans to open 200 new locations across the Southeast over the next two years, funded by a new private equity investment.",
+    "entities": []
+  },
+  {
+    "id": "a24",
+    "received_at": "2026-08-07T09:00:00+00:00",
+    "subject": "Streaming Service Announces Price Increase for Premium Tier",
+    "body": "A major streaming service announced a price increase for its premium ad-free tier, effective next month, citing rising content licensing costs.",
+    "entities": []
+  },
+  {
+    "id": "a25",
+    "received_at": "2026-08-02T09:00:00+00:00",
+    "subject": "City Council Approves New Downtown Transit Line",
+    "body": "The city council approved funding for a new downtown transit line expected to break ground next year, part of a broader infrastructure modernization plan.",
+    "entities": []
+  },
+  {
+    "id": "a26",
+    "received_at": "2026-07-23T09:00:00+00:00",
+    "subject": "Pharma Company Reports Mixed Results from Late-Stage Trial",
+    "body": "A pharmaceutical company reported mixed results from a late-stage clinical trial, sending shares lower in early trading as investors weighed the data against prior expectations.",
+    "entities": []
+  },
+  {
+    "id": "a27",
+    "received_at": "2026-06-27T09:00:00+00:00",
+    "subject": "Solstice Robotics Presents at Industrial Automation Investor Conference",
+    "body": "Solstice Robotics management presented at an industrial automation investor conference, reiterating medium-term margin targets and discussing the competitive landscape in warehouse robotics.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_FOCAL",
+        "name": "Solstice Robotics"
+      },
+      {
+        "entity_type": "END_MARKET",
+        "name": "warehouse automation"
+      }
+    ]
+  },
+  {
+    "id": "a28",
+    "received_at": "2026-06-12T09:00:00+00:00",
+    "subject": "Kestrel Automation Announces Partnership with European Distributor",
+    "body": "Kestrel Automation announced a new distribution partnership in Europe aimed at expanding its footprint outside North America.",
+    "entities": [
+      {
+        "entity_type": "COMPANY_COMPETITOR",
+        "name": "Kestrel Automation",
+        "related_to_focal": "solstice robotics"
+      },
+      {
+        "entity_type": "GEO_COUNTRY",
+        "name": "Germany"
+      }
+    ]
+  }
+]
